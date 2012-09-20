@@ -1,0 +1,58 @@
+#2.0.2
+
+ Fixes:
+  - Changed a method name in the twitter engine from stringWithNewUUID to 
+    mgStringWithNewUUID to not conflict with an Apple private API.
+
+#2.0.1
+
+ New:
+  - Compatible with the latest iOS 4.2 SDK from Apple.
+  - (FOR FUTURE USE) Now supports Apple HTTP Streaming video content when 
+    media urls are retrieved with the BCMediaDeliveryTypeHTTP_IOS media 
+    delivery type.
+
+#2.0.0
+
+ New:
+  - Sharing UIs, email and Twitter sharing are back in the new library
+    libBrightcoveSharingKit.a.
+
+ Changes:
+  - libBrightcoveiPadiPhoneKit.a has been renamed to libBrightcovePlayerKit.a.
+  - Renditions selection now sorts your available rendions by encoding rate
+    and then move top down, highest to lowest bit-rate looking for a
+    rendition in the threshold.
+  - Stream Complete event now sent to Brightcove at the end of a video.  
+
+#1.1.1
+
+ Changes:
+  - Region support has been moved to it's own class. The
+    BCConfigManager class, found in libBrightcoveMediaAPI.a, now 
+    manages the region for all libraries from Brightcove. In this 
+    library, libBrightcoveiPadiPhoneKit.a, the tracking urls are affected.
+ Fixes:
+  - Using the new region changes Brightcove KK developers will have tracking
+    sent to the correct region, co.jp. 
+
+#1.1.0
+
+ New:
+  - Support for iOS 3.1, 3.2 and 4.0.
+  - BCMoviePlayerController implements the MPMediaPlayback protocol. These
+    methods now show up in code completion.
+  - searchForRenditionsBetweenLowBitRate: andHighBitRate: now take NSNumber
+    as the param types.
+  - The - (id)initWithContentURL:(BCVideo *) video 
+    searchForRenditionWithLowBitRate:(NSNumber *) lowBitRate 
+    andHighBitRate:(NSNumber *) highBitRate method was added. Primarily used
+    to support iOS 3.1 but can be used on 3.2 and greater.
+  - Compatible with the latest iOS 4.0 SDK from Apple.
+
+#1.0.0
+
+ New:
+  - Initial libBrightcoveiPadiPhone library release.
+  - BCMoviePlayerController is an extension of the MPMoviePlayerController class
+    that comes with tracking, rendition searching and support for BCVideo objects.

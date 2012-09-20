@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<plist version="1.0">
+    <dict>
+        <key>SUDSAnchorArray</key>
+        <array>
+            <dict>
+                <key>SUDSAnchorValue</key>
+                <string>0</string>
+                <key>SUDSAnchorDesc</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>SUDSAnchorValue</key>
+                <string>25</string>
+                <key>SUDSAnchorDesc</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>SUDSAnchorValue</key>
+                <string>50</string>
+                <key>SUDSAnchorDesc</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>SUDSAnchorValue</key>
+                <string>75</string>
+                <key>SUDSAnchorDesc</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>SUDSAnchorValue</key>
+                <string>100</string>
+                <key>SUDSAnchorDesc</key>
+                <string></string>
+            </dict>
+            
+        </array>
+    </dict>
+</plist>

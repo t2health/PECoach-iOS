@@ -1,0 +1,1902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ozxmlscene>
+<ozml version="5.0">
+
+<factory id="1" uuid="044beba5ad3211d7ac9b000393833f6a">
+	<description>Style</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="2" uuid="0a5c0b1d4acd11d8b650000a95a6b5a8">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="3" uuid="0e8d443513b611d89395000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="4" uuid="10405f52139811d8b4db000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="5" uuid="1595b452229211d78c7f00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="6" uuid="27f3ee8b229211d7925a00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="7" uuid="46c844a813d311d8a438000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="8" uuid="558f10b4a1c011d7998900039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="9" uuid="615c4bf6406511d88802000a95af90f2">
+	<description>Generator</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="10" uuid="65cb4dc9d4504fa281921f5f751fba06">
+	<description>Widget</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="11" uuid="66fc0d6af6a911d6a7a7000393670732">
+	<description>Image</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="12" uuid="69f1e0a52e7911d8b19a000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="13" uuid="6b337e9c21aa11d7a08700039375d2ba">
+	<description>Master</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="14" uuid="6d5e3b5e92ee4a349864eb75a700d6a1">
+	<description>Text Generator</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="15" uuid="7644521e2e7911d891a6000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="16" uuid="7d468273c013498e9806a0d7bc32fddf">
+	<description>Project</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="17" uuid="84414060b0fd11d99bb5000a957d5fce">
+	<description>Clone Layer</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="18" uuid="878a64bd193011d8bac3000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="19" uuid="fdc1944b229111d7b1c300039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+
+<build></build>
+
+<description></description>
+
+<canvas>
+	<layout>1</layout>
+	<activeView>0</activeView>
+</canvas>
+
+<viewer subview="0">
+	<resolutionMode>0</resolutionMode>
+	<dynamicResolutionMode>1</dynamicResolutionMode>
+	<viewmode>0</viewmode>
+	<overlayOptions>125708</overlayOptions>
+	<oscOptions>30</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<cameraType>0</cameraType>
+	<cameraName>Active Camera</cameraName>
+	<panZoom camera="0" zoom="1" panX="671" panY="135" mode="1" centered="1"/>
+</viewer>
+<viewer subview="1">
+	<resolutionMode>0</resolutionMode>
+	<dynamicResolutionMode>1</dynamicResolutionMode>
+	<viewmode>0</viewmode>
+	<overlayOptions>125708</overlayOptions>
+	<oscOptions>30</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<cameraType>0</cameraType>
+	<cameraName>Active Camera</cameraName>
+	<panZoom camera="0" zoom="1" panX="286" panY="81" mode="1" centered="1"/>
+</viewer>
+<viewer subview="2">
+	<resolutionMode>0</resolutionMode>
+	<dynamicResolutionMode>1</dynamicResolutionMode>
+	<viewmode>0</viewmode>
+	<overlayOptions>125452</overlayOptions>
+	<oscOptions>30</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<cameraType>1</cameraType>
+	<cameraName></cameraName>
+</viewer>
+<viewer subview="3">
+	<resolutionMode>0</resolutionMode>
+	<dynamicResolutionMode>1</dynamicResolutionMode>
+	<viewmode>0</viewmode>
+	<overlayOptions>125452</overlayOptions>
+	<oscOptions>30</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<cameraType>1</cameraType>
+	<cameraName></cameraName>
+</viewer>
+
+<projectPanel>
+	<layersPreviewColumn>1</layersPreviewColumn>
+	<layersOpacityColumn>0</layersOpacityColumn>
+	<layersBlendColumn>0</layersBlendColumn>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<layersVerticalZoom>1.7999999523162842</layersVerticalZoom>
+	<mediaPreviewColumn>1</mediaPreviewColumn>
+	<mediaTypeColumn>1</mediaTypeColumn>
+	<mediaDurationColumn>1</mediaDurationColumn>
+	<mediaInUseColumn>1</mediaInUseColumn>
+	<mediaFrameSizeColumn>1</mediaFrameSizeColumn>
+	<mediaCompressorColumn>1</mediaCompressorColumn>
+	<mediaDepthColumn>1</mediaDepthColumn>
+	<mediaFrameRateColumn>1</mediaFrameRateColumn>
+	<mediaDataRateColumn>1</mediaDataRateColumn>
+	<mediaAudioRateColumn>1</mediaAudioRateColumn>
+	<mediaAudioFormatColumn>1</mediaAudioFormatColumn>
+	<mediaFileSizeColumn>1</mediaFileSizeColumn>
+	<mediaFileCreatedColumn>1</mediaFileCreatedColumn>
+	<mediaDileModifiedColumn>1</mediaDileModifiedColumn>
+	<mediaVerticalZoom>1.78400088028169</mediaVerticalZoom>
+	<audioMuteSoloColumn>1</audioMuteSoloColumn>
+	<audioBalanceColumn>1</audioBalanceColumn>
+</projectPanel>
+
+<timeline>
+	<displayVideo>1</displayVideo>
+	<displayAudio>1</displayAudio>
+	<displayKeyframes>0</displayKeyframes>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<videoVerticalZoom>1.5555555555555556</videoVerticalZoom>
+	<audioVerticalZoom>1.5555555555555556</audioVerticalZoom>
+	<displayRange in="-44463419 49050000 1 0" out="1735107374 49050000 1 0"/>
+</timeline>
+
+<curveeditor>
+	<autozoom>1</autozoom>
+	<snapping>0</snapping>
+	<displayAudioWaveform>1</displayAudioWaveform>
+	<lockKeyframesInTime>0</lockKeyframesInTime>
+	<displayRange in="-44463419 49050000 1 0" out="1735107374 49050000 1 0"/>
+	<currentviewvolume originx="-0.90649172273190626" originy="-56" width="36.280750112130477" height="111.45454545454544"/>
+	<snapshotChannels>0</snapshotChannels>
+</curveeditor>
+
+<inspector>
+	<collapseState id="./1/100" state="1"/>
+	<collapseState id="./1/100/101" state="1"/>
+	<collapseState id="./1/100/105" state="0"/>
+	<collapseState id="./1/100/107" state="0"/>
+	<collapseState id="./1/115" state="1"/>
+	<collapseState id="./1/200" state="1"/>
+	<collapseState id="./1/233" state="1"/>
+	<collapseState id="./1/324" state="1"/>
+</inspector>
+
+<scene>
+	<sceneSettings>
+		<width>200</width>
+		<height>200</height>
+		<duration>1033</duration>
+		<shouldOverrideFCDuration>0</shouldOverrideFCDuration>
+		<frameRate>30</frameRate>
+		<NTSC>1</NTSC>
+		<channels>4</channels>
+		<pixelAspectRatio>1</pixelAspectRatio>
+		<backgroundColor red="0.003920789808" green="0.003922067583" blue="0.003920510877" alpha="1"/>
+		<audioChannels>2</audioChannels>
+		<audioBitsPerSample>32</audioBitsPerSample>
+		<fieldRenderingMode>0</fieldRenderingMode>
+		<motionBlurSamples>8</motionBlurSamples>
+		<motionBlurDuration>1</motionBlurDuration>
+		<startTimecode>0</startTimecode>
+		<presetPath></presetPath>
+		<backgroundMode>0</backgroundMode>
+		<reflectionRecursionLimit>2</reflectionRecursionLimit>
+		<glyphOSCMode>0</glyphOSCMode>
+		<animateFlag>0</animateFlag>
+		<parameterColorSpaceID>3</parameterColorSpaceID>
+		<savePreviewMovie>0</savePreviewMovie>
+	</sceneSettings>
+	<exportSettings>
+		<version>1</version>
+		<locationMode>2</locationMode>
+		<resolutionMode>3</resolutionMode>
+		<colorMode>2</colorMode>
+		<premultiplyAlpha>1</premultiplyAlpha>
+		<renderQuality>10</renderQuality>
+		<textRenderQuality>6</textRenderQuality>
+		<useHighQualityResampling>1</useHighQualityResampling>
+		<useShapeAntialiasing>1</useShapeAntialiasing>
+		<use3DIntersectionAntialiasing>1</use3DIntersectionAntialiasing>
+		<fieldRenderingMode>2</fieldRenderingMode>
+		<motionBlurMode>2</motionBlurMode>
+		<frameBlendingMode>2</frameBlendingMode>
+		<camera>0</camera>
+		<lightingMode>2</lightingMode>
+		<shadowsMode>2</shadowsMode>
+		<reflectionsMode>2</reflectionsMode>
+		<depthOfFieldMode>2</depthOfFieldMode>
+	</exportSettings>
+	<publishSettings>
+		<version>1</version>
+	</publishSettings>
+	<currentFrame>0 1 1 0</currentFrame>
+	<timeRange offset="0 1 1 0" duration="264712448 7680000 1 0"/>
+	<playRange offset="0 1 1 0" duration="264712448 7680000 1 0"/>
+	<flags>1</flags>
+	<audioTracks>1</audioTracks>
+	<timemarkerset/>
+	<guideset/>
+	<curvesets selected="11">
+		<curveset name="Untitled Set" shortcut="" relative="0">
+			<channel colorindex="0">
+				<channelref>./10002/10054/1/200/202</channelref>
+			</channel>
+			<channel colorindex="0">
+				<channelref>./10002/10012/1/100/105/1</channelref>
+			</channel>
+			<channel colorindex="1">
+				<channelref>./10002/10012/1/100/105/2</channelref>
+			</channel>
+			<channel colorindex="2">
+				<channelref>./10002/10012/1/100/105/3</channelref>
+			</channel>
+		</curveset>
+	</curvesets>
+	<scenenode name="Project" id="10000" factoryID="16" version="5">
+		<scenenode name="Widget" id="10001" factoryID="10" version="5">
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-256256 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>16</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Options" id="103" flags="8589938688"/>
+				<parameter name="Hidden" id="102" flags="8589934608" default="0" value="1"/>
+				<parameter name="Snapshots" id="101" flags="8589938706"/>
+				<parameter name="Widget" id="100" flags="8589934608" default="1.7777777777777777" value="1.7777777777777777"/>
+			</parameter>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="-256256 7680000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>16</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704"/>
+		<parameter name="Object" id="2" flags="8589938704">
+			<parameter name="Published Folder" id="1" flags="8590004240">
+				<flags>8590004240</flags>
+			</parameter>
+		</parameter>
+	</scenenode>
+	<layer name="Counting Text" id="1026163">
+		<scenenode name="Numbers" id="1026159" factoryID="14" version="5">
+			<paragraphMarginsCached cached="0"/>
+			<scrollMarginsCached cached="0"/>
+			<crawlMarginsCached cached="0"/>
+			<host hostID="0"/>
+			<textPathModified textPathModifiedVal="0"/>
+			<paragraphStyle/>
+			<style name="Style" id="1026162" factoryID="1">
+				<font type="0">Helvetica</font>
+				<copyFlags>65535</copyFlags>
+				<previewWidth>0</previewWidth>
+				<previewHeight>0</previewHeight>
+				<timing in="123002880 7680000 1 0" out="153497344 7680000 1 0" offset="123002880 7680000 1 0"/>
+				<baseFlags>67108913</baseFlags>
+				<foldFlags>524288</foldFlags>
+				<parameter name="Size" id="3" flags="8589934609" default="48" value="72"/>
+				<parameter name="Face" id="14" flags="8589938704">
+					<foldFlags>131072</foldFlags>
+					<parameter name="Color" id="16" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="8589934608" default="1" value="0.039207898080348969"/>
+						<parameter name="Green" id="2" flags="8589934608" default="1" value="0.039220672100782394"/>
+						<parameter name="Blue" id="3" flags="8589934608" default="1" value="0.039205111563205719"/>
+					</parameter>
+					<parameter name="Texture" id="18" flags="8594133008">
+						<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+					</parameter>
+				</parameter>
+				<parameter name="Drop Shadow" id="21" flags="8589971472">
+					<foldFlags>131072</foldFlags>
+					<parameter name="Texture" id="25" flags="8594133008">
+						<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+					</parameter>
+				</parameter>
+				<parameter name="Outline" id="30" flags="8589938704">
+					<foldFlags>131072</foldFlags>
+					<parameter name="Color" id="32" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="Red" id="1" flags="8589934608" default="1" value="0.99207025766372681"/>
+						<parameter name="Green" id="2" flags="8589934608" default="0" value="0.99221235513687134"/>
+						<parameter name="Blue" id="3" flags="8589934608" default="0" value="0.9920392632484436"/>
+					</parameter>
+					<parameter name="Texture" id="34" flags="8594133008">
+						<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+					</parameter>
+					<parameter name="Width" id="36" flags="8589934608" default="1" value="2"/>
+				</parameter>
+				<parameter name="Glow" id="38" flags="8589973520">
+					<foldFlags>131072</foldFlags>
+					<parameter name="Texture" id="42" flags="8594133008">
+						<parameter name="Image" id="1" flags="77309476880" default="0" value="0"/>
+					</parameter>
+				</parameter>
+			</style>
+			<styleRun style="1026162" offset="0" length="1"/>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="123002880 7680000 1 0" out="153497344 7680000 1 0" offset="123002880 7680000 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>34078736</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Position" id="101" flags="8589938704">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="8589934608" default="0" value="-18.000000000000583"/>
+						<parameter name="Y" id="2" flags="8589934608" default="0" value="-25.500000000000746"/>
+					</parameter>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Drop Shadow" id="208" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Four Corner" id="207" flags="8589971458">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Crop" id="216" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Render Text" id="360" flags="8590000146" default="0" value="0"/>
+				<parameter name="Face Camera" id="352" flags="8589934610" default="0" value="0"/>
+				<parameter name="Left Margin" id="323" flags="8589967376" default="0" value="0"/>
+				<parameter name="Right Margin" id="324" flags="8589967376" default="0" value="0"/>
+				<parameter name="Top Margin" id="325" flags="8589967376" default="0" value="0"/>
+				<parameter name="Bottom Margin" id="326" flags="8589967376" default="0" value="0"/>
+				<parameter name="Path Options" id="329" flags="8589971472">
+					<parameter name="Shape Source" id="339" flags="77313671184" default="0" value="0"/>
+					<parameter name="Align to Path" id="333" flags="8589934610" default="1" value="1"/>
+				</parameter>
+				<parameter name="Auto-Shrink" id="370" flags="8590032912" default="0" value="0"/>
+				<parameter name="Crop At Margins" id="372" flags="8589967376" default="0" value="0"/>
+				<parameter name="Numbers" id="513" flags="8589938704">
+					<parameter name="End" id="507" flags="12884901904" default="1033" value="4"/>
+					<parameter name="Minimum Digits" id="511" flags="8589934608" default="0" value="1"/>
+					<parameter name="Thousands Separator" id="508" flags="8589934608" default="1" value="0"/>
+					<parameter name="Random Hold Frame" id="512" flags="8589934608" default="0" value="1"/>
+				</parameter>
+			</parameter>
+		</scenenode>
+		<scenenode name="Clone Layer" id="1911563424" factoryID="17" version="5">
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="153753600 7680000 1 0" out="184248064 7680000 1 0" offset="153753600 7680000 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Position" id="101" flags="8589938704">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="8589934608" default="0" value="-18.000000000000583"/>
+						<parameter name="Y" id="2" flags="8589934608" default="0" value="-25.500000000000746"/>
+					</parameter>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Retime Value" id="309" flags="8590065682">
+					<curve type="1" default="1" value="121" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>0 7680000 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>30750720 7680000 1 0</time>
+							<value>121</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="311" flags="8590065682">
+					<curve type="1" default="1" value="525">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>134278144 7680000 1 0</time>
+							<value>525</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>165028864 7680000 1 0</time>
+							<value>645</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="312" flags="8589934610" default="0" value="120"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Clone Layer" id="1" flags="8589938704">
+					<parameter name="Source" id="300" flags="77309476880" default="0" value="1026159"/>
+				</parameter>
+			</parameter>
+		</scenenode>
+		<scenenode name="Clone Layer 1" id="1911563480" factoryID="17" version="5">
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="184504320 7680000 1 0" out="214998784 7680000 1 0" offset="184504320 7680000 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Position" id="101" flags="8589938704">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="8589934608" default="0" value="-18.000000000000583"/>
+						<parameter name="Y" id="2" flags="8589934608" default="0" value="-25.500000000000746"/>
+					</parameter>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Retime Value" id="309" flags="8590065682">
+					<curve type="1" default="1" value="121" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>0 7680000 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>30750720 7680000 1 0</time>
+							<value>121</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="311" flags="8590065682">
+					<curve type="1" default="1" value="645">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>165028864 7680000 1 0</time>
+							<value>645</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>195779584 7680000 1 0</time>
+							<value>765</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="312" flags="8589934610" default="0" value="120"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Clone Layer 1" id="1" flags="8589938704">
+					<parameter name="Source" id="300" flags="77309476880" default="0" value="1911563424"/>
+				</parameter>
+			</parameter>
+		</scenenode>
+		<scenenode name="Clone Layer 2" id="1911563541" factoryID="17" version="5">
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="215255040 7680000 1 0" out="245749504 7680000 1 0" offset="215255040 7680000 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Position" id="101" flags="8589938704">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="8589934608" default="0" value="-18.000000000000583"/>
+						<parameter name="Y" id="2" flags="8589934608" default="0" value="-25.500000000000746"/>
+					</parameter>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Retime Value" id="309" flags="8590065682">
+					<curve type="1" default="1" value="121" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>0 7680000 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>30750720 7680000 1 0</time>
+							<value>121</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="311" flags="8590065682">
+					<curve type="1" default="1" value="765">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>195779584 7680000 1 0</time>
+							<value>765</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>226530304 7680000 1 0</time>
+							<value>885</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="312" flags="8589934610" default="0" value="120"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Clone Layer 2" id="1" flags="8589938704">
+					<parameter name="Source" id="300" flags="77309476880" default="0" value="1911563480"/>
+				</parameter>
+			</parameter>
+		</scenenode>
+		<override>0</override>
+		<aspectRatio>1</aspectRatio>
+		<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+		<flags>0</flags>
+		<timing in="123002880 7680000 1 0" out="245749504 7680000 1 0" offset="-30238208 7680000 1 0"/>
+		<foldFlags>1</foldFlags>
+		<baseFlags>524368</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704">
+			<parameter name="Lighting" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+				<parameter name="Highlights" id="231" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="Shadows" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Reflection" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="Object" id="2" flags="8589938704">
+			<parameter name="Fixed Width" id="302" flags="12884901908" default="200" value="200"/>
+			<parameter name="Fixed Height" id="303" flags="12884901908" default="200" value="200"/>
+			<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="Aperture Width" id="312" flags="12884901906" default="200" value="200"/>
+			<parameter name="Aperture Height" id="313" flags="12884901906" default="200" value="200"/>
+		</parameter>
+	</layer>
+	<layer name="Balls" id="10002">
+		<scenenode name="Green Ball" id="1003273" factoryID="11" version="5">
+			<validTracks>0</validTracks>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="0 7680000 1 0" out="122746624 7680000 1 0" offset="0 7680000 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Scale" id="105" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824" default="1" value="0.5"/>
+						<parameter name="Y" id="2" flags="8606711824" default="1" value="0.5"/>
+						<parameter name="Z" id="3" flags="8606711824" default="1" value="0.5"/>
+					</parameter>
+				</parameter>
+				<parameter name="Blending" id="200" flags="8589938704">
+					<parameter name="Opacity" id="202" flags="8606711825">
+						<curve type="1" default="1" value="0.25">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<min>0</min>
+							<max>1</max>
+							<keypoint interpolation="1" flags="32">
+								<time>0 1 1 0</time>
+								<value>0.25</value>
+								<inputTangentTime>-0.40000000000000002</inputTangentTime>
+								<inputTangentValue>-0</inputTangentValue>
+								<outputTangentTime>0.40000000000000002</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>2402400 2400000 1 0</time>
+								<value>1</value>
+							</keypoint>
+						</curve>
+					</parameter>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Media" id="324" flags="8589938704">
+					<parameter name="Source Media" id="300" flags="81621221392" default="1911567858" value="1911567858"/>
+					<parameter name="Source Media" id="325" flags="8590000146">
+						<referencedObjectID></referencedObjectID>
+						<mediaRefFlags>0</mediaRefFlags>
+						<mediaOffset>0 1 1 0</mediaOffset>
+						<defaultMediaRefFlags>0</defaultMediaRefFlags>
+						<defaultMediaOffset>0 1 1 0</defaultMediaOffset>
+						<shortName></shortName>
+					</parameter>
+				</parameter>
+				<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+				<parameter name="Retime Value" id="304" flags="8590065938">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>0 7680000 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>123002880 7680000 1 0</time>
+							<value>481</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="319" flags="8590065682">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>0 1 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>269068800 7680000 1 0</time>
+							<value>1051</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="320" flags="8589934610" default="0" value="1050"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Width" id="313" flags="8589934610" default="1" value="200"/>
+				<parameter name="Height" id="314" flags="8589934610" default="1" value="200"/>
+			</parameter>
+		</scenenode>
+		<scenenode name="Inhale Green Ball" id="10012" factoryID="11" version="5">
+			<validTracks>0</validTracks>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="123002880 7680000 1 0" out="153497344 7680000 1 0" offset="123002880 7680000 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524368</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Position" id="101" flags="8589938704">
+						<foldFlags>11</foldFlags>
+						<parameter name="X" id="1" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Y" id="2" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Z" id="3" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Rotation" id="109" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Y" id="2" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Z" id="3" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Scale" id="105" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824">
+							<curve type="1" default="1" value="0.5">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>0 7680000 1 0</time>
+									<value>0.5</value>
+									<inputTangentTime>-5.3275444444444444</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>1.3235444444444444</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>30494464 7680000 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-1.3235444444</inputTangentTime>
+									<inputTangentValue>-0.041405706331249049</inputTangentValue>
+									<outputTangentTime>4.0039999999999996</outputTangentTime>
+									<outputTangentValue>0.12526096033402195</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Y" id="2" flags="8606711824">
+							<curve type="1" default="1" value="0.5">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>0 7680000 1 0</time>
+									<value>0.5</value>
+									<inputTangentTime>-5.3275444444444444</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>1.3235444444444444</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>30494464 7680000 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-1.3235444444</inputTangentTime>
+									<inputTangentValue>-0.041405706331249049</inputTangentValue>
+									<outputTangentTime>4.0039999999999996</outputTangentTime>
+									<outputTangentValue>0.12526096033402195</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Z" id="3" flags="8606711824">
+							<curve type="1" default="1" value="0.5">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>0 7680000 1 0</time>
+									<value>0.5</value>
+									<inputTangentTime>-5.3275444444444444</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>1.3235444444444444</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>30494464 7680000 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-1.3235444444</inputTangentTime>
+									<inputTangentValue>-0.041405706331249049</inputTangentValue>
+									<outputTangentTime>4.0039999999999996</outputTangentTime>
+									<outputTangentValue>0.12526096033402195</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Shear" id="106" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Y" id="2" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+					</parameter>
+					<parameter name="Anchor Point" id="107" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Y" id="2" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Z" id="3" flags="8606711824">
+							<curve type="1" default="0" value="0">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>122746624 7680000 1 0</time>
+									<value>0</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>130690560 7680000 1 0</time>
+									<value>0</value>
+								</keypoint>
+							</curve>
+						</parameter>
+					</parameter>
+				</parameter>
+				<parameter name="Blending" id="200" flags="8589938704">
+					<parameter name="Opacity" id="202" flags="8606711824">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<min>0</min>
+							<max>1</max>
+							<keypoint interpolation="1" flags="32">
+								<time>122746624 7680000 1 0</time>
+								<value>1</value>
+								<inputTangentTime>-0.40000000000000002</inputTangentTime>
+								<inputTangentValue>-0</inputTangentValue>
+								<outputTangentTime>0.40000000000000002</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>130690560 7680000 1 0</time>
+								<value>1</value>
+							</keypoint>
+						</curve>
+					</parameter>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Media" id="324" flags="8589938704">
+					<parameter name="Source Media" id="300" flags="81621221392" default="1911562078" value="1911562078"/>
+					<parameter name="Source Media" id="325" flags="8590000146">
+						<referencedObjectID></referencedObjectID>
+						<mediaRefFlags>0</mediaRefFlags>
+						<mediaOffset>0 1 1 0</mediaOffset>
+						<defaultMediaRefFlags>0</defaultMediaRefFlags>
+						<defaultMediaOffset>0 1 1 0</defaultMediaOffset>
+						<shortName></shortName>
+					</parameter>
+				</parameter>
+				<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+				<parameter name="Retime Value" id="304" flags="8590065938">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>0 7680000 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>30750720 7680000 1 0</time>
+							<value>121</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="319" flags="8590065682">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>0 1 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>38438400 7680000 1 0</time>
+							<value>151</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="320" flags="8589934610" default="0" value="150"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Width" id="313" flags="8589934610" default="1" value="200"/>
+				<parameter name="Height" id="314" flags="8589934610" default="1" value="200"/>
+			</parameter>
+		</scenenode>
+		<scenenode name="Hold Yellow Ball" id="10046" factoryID="11" version="5">
+			<validTracks>0</validTracks>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="153753600 7680000 1 0" out="184248064 7680000 1 0" offset="153753600 7680000 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Media" id="324" flags="8589938704">
+					<parameter name="Source Media" id="300" flags="81621221392" default="1911562112" value="1911562112"/>
+					<parameter name="Source Media" id="325" flags="8590000146">
+						<referencedObjectID></referencedObjectID>
+						<mediaRefFlags>0</mediaRefFlags>
+						<mediaOffset>0 1 1 0</mediaOffset>
+						<defaultMediaRefFlags>0</defaultMediaRefFlags>
+						<defaultMediaOffset>0 1 1 0</defaultMediaOffset>
+						<shortName></shortName>
+					</parameter>
+				</parameter>
+				<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+				<parameter name="Retime Value" id="304" flags="8590065938">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>0 7680000 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>30750720 7680000 1 0</time>
+							<value>121</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="319" flags="8590065682">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="160">
+							<time>0 7680000 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>269068800 7680000 1 0</time>
+							<value>1051</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="320" flags="8589934610" default="0" value="1050"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Width" id="313" flags="8589934610" default="1" value="200"/>
+				<parameter name="Height" id="314" flags="8589934610" default="1" value="200"/>
+			</parameter>
+		</scenenode>
+		<scenenode name="Exhale Red Ball" id="10050" factoryID="11" version="5">
+			<validTracks>0</validTracks>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="184504320 7680000 1 0" out="214998784 7680000 1 0" offset="184504320 7680000 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Scale" id="105" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>0 7680000 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>30494464 7680000 1 0</time>
+									<value>0.5</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Y" id="2" flags="8606711824">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>0 7680000 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>30494464 7680000 1 0</time>
+									<value>0.5</value>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Z" id="3" flags="8606711824">
+							<curve type="1" default="1" value="1">
+								<numberOfKeypoints>2</numberOfKeypoints>
+								<keypoint interpolation="1" flags="32">
+									<time>0 7680000 1 0</time>
+									<value>1</value>
+									<inputTangentTime>-0.40000000000000002</inputTangentTime>
+									<inputTangentValue>-0</inputTangentValue>
+									<outputTangentTime>0.40000000000000002</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint interpolation="1" flags="32">
+									<time>30494464 7680000 1 0</time>
+									<value>0.5</value>
+								</keypoint>
+							</curve>
+						</parameter>
+					</parameter>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Media" id="324" flags="8589938704">
+					<parameter name="Source Media" id="300" flags="81621221392" default="1911562095" value="1911562095"/>
+					<parameter name="Source Media" id="325" flags="8590000146">
+						<referencedObjectID></referencedObjectID>
+						<mediaRefFlags>0</mediaRefFlags>
+						<mediaOffset>0 1 1 0</mediaOffset>
+						<defaultMediaRefFlags>0</defaultMediaRefFlags>
+						<defaultMediaOffset>0 1 1 0</defaultMediaOffset>
+						<shortName></shortName>
+					</parameter>
+				</parameter>
+				<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+				<parameter name="Retime Value" id="304" flags="8590065938">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>0 7680000 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>30750720 7680000 1 0</time>
+							<value>121</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="319" flags="8590065682">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>0 1 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>269068800 7680000 1 0</time>
+							<value>1051</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="320" flags="8589934610" default="0" value="1050"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Width" id="313" flags="8589934610" default="1" value="200"/>
+				<parameter name="Height" id="314" flags="8589934610" default="1" value="200"/>
+			</parameter>
+		</scenenode>
+		<scenenode name="Hold Yellow Ball II" id="10054" factoryID="11" version="5">
+			<validTracks>0</validTracks>
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="215255040 7680000 1 0" out="264712448 7680000 1 0" offset="215255040 7680000 1 0"/>
+			<foldFlags>16386</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Scale" id="105" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824" default="1" value="0.5"/>
+						<parameter name="Y" id="2" flags="8606711824" default="1" value="0.5"/>
+						<parameter name="Z" id="3" flags="8606711824" default="1" value="0.5"/>
+					</parameter>
+				</parameter>
+				<parameter name="Blending" id="200" flags="8589938704">
+					<parameter name="Opacity" id="202" flags="8606711825">
+						<curve type="1" default="1" value="1">
+							<numberOfKeypoints>2</numberOfKeypoints>
+							<min>0</min>
+							<max>1</max>
+							<keypoint interpolation="1" flags="32">
+								<time>30494464 7680000 1 0</time>
+								<value>1</value>
+								<inputTangentTime>-0.40000000000000002</inputTangentTime>
+								<inputTangentValue>-0</inputTangentValue>
+								<outputTangentTime>0.78709677417882007</outputTangentTime>
+								<outputTangentValue>0</outputTangentValue>
+							</keypoint>
+							<keypoint interpolation="1" flags="32">
+								<time>46126080 7680000 1 0</time>
+								<value>0</value>
+							</keypoint>
+						</curve>
+					</parameter>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Media" id="324" flags="8589938704">
+					<parameter name="Source Media" id="300" flags="81621221392" default="1911562129" value="1911562129"/>
+					<parameter name="Source Media" id="325" flags="8590000146">
+						<referencedObjectID></referencedObjectID>
+						<mediaRefFlags>0</mediaRefFlags>
+						<mediaOffset>0 1 1 0</mediaOffset>
+						<defaultMediaRefFlags>0</defaultMediaRefFlags>
+						<defaultMediaOffset>0 1 1 0</defaultMediaOffset>
+						<shortName></shortName>
+					</parameter>
+				</parameter>
+				<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+				<parameter name="Retime Value" id="304" flags="8590065938">
+					<curve type="1" default="1" value="1" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>0 7680000 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>49713664 7680000 1 0</time>
+							<value>195</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="319" flags="8590065682">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>0 1 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>269068800 7680000 1 0</time>
+							<value>1051</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Duration Cache" id="320" flags="8589934610" default="0" value="1050"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Width" id="313" flags="8589934610" default="1" value="200"/>
+				<parameter name="Height" id="314" flags="8589934610" default="1" value="200"/>
+			</parameter>
+		</scenenode>
+		<override>0</override>
+		<aspectRatio>1</aspectRatio>
+		<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+		<flags>0</flags>
+		<timing in="0 7680000 1 0" out="264712448 7680000 1 0" offset="123002880 7680000 1 0"/>
+		<foldFlags>1</foldFlags>
+		<baseFlags>524368</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704">
+			<parameter name="Lighting" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Shadows" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Reflection" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="Object" id="2" flags="8589938704">
+			<parameter name="Fixed Width" id="302" flags="12901679124" default="720" value="720"/>
+			<parameter name="Fixed Height" id="303" flags="12901679124" default="480" value="480"/>
+			<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="Aperture Width" id="312" flags="12884901906" default="720" value="720"/>
+			<parameter name="Aperture Height" id="313" flags="12884901906" default="480" value="480"/>
+		</parameter>
+	</layer>
+	<layer name="Background" id="1911570674">
+		<scenenode name="Color Solid" id="1911570704" factoryID="9" pluginUUID="C18E8B62-C24F-4F8D-8597-858675A40BBC" pluginVersion="0" pluginName="PAEColorSolid" version="5">
+			<override>0</override>
+			<aspectRatio>1</aspectRatio>
+			<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+			<flags>0</flags>
+			<timing in="0 7680000 1 0" out="264456192 7680000 1 0" offset="0 7680000 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Color Solid" id="1" flags="8589938704">
+					<parameter name="Color" id="1" flags="8589938704">
+						<foldFlags>11</foldFlags>
+						<parameter name="Red" id="1" flags="8589934609" default="0" value="0.94999999999999996"/>
+						<parameter name="Green" id="2" flags="8589934608" default="0" value="0.94999999999999996"/>
+						<parameter name="Blue" id="3" flags="8589934608" default="1" value="0.94999999999999996"/>
+					</parameter>
+				</parameter>
+			</parameter>
+		</scenenode>
+		<override>0</override>
+		<aspectRatio>1</aspectRatio>
+		<ignoreBehaviorsBeforeID>0</ignoreBehaviorsBeforeID>
+		<flags>0</flags>
+		<timing in="0 7680000 1 0" out="264456192 7680000 1 0" offset="-74826752 7680000 1 0"/>
+		<foldFlags>1</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704">
+			<parameter name="Lighting" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Shadows" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Reflection" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="Object" id="2" flags="8589938704">
+			<parameter name="Fixed Width" id="302" flags="12884901908" default="200" value="200"/>
+			<parameter name="Fixed Height" id="303" flags="12884901908" default="200" value="200"/>
+			<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="Aperture Width" id="312" flags="12884901906" default="200" value="200"/>
+			<parameter name="Aperture Height" id="313" flags="12884901906" default="200" value="200"/>
+		</parameter>
+	</layer>
+
+	<audio name="Audio Layer" id="10017">
+		<audioTrack name="f_intro2" id="10016">
+			<flags>0</flags>
+			<timing in="0 7680000 1 0" out="264712448 7680000 1 0" offset="-256256 7680000 1 0"/>
+			<foldFlags>16384</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Media" id="104" flags="77309476880" default="0" value="10015"/>
+				<parameter name="Retime Value" id="109" flags="8590065682">
+					<curve type="1" default="1" value="2" round="0" retimingExtrapolation="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<postExtrapolation>1</postExtrapolation>
+						<keypoint interpolation="1" flags="32">
+							<time>256256 7680000 1 0</time>
+							<value>2</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="32">
+							<time>265224960 7680000 1 0</time>
+							<value>1036</value>
+						</keypoint>
+					</curve>
+				</parameter>
+				<parameter name="Retime Value Cache" id="110" flags="8590065682">
+					<curve type="1" default="1" value="1">
+						<numberOfKeypoints>2</numberOfKeypoints>
+						<keypoint interpolation="1" flags="160">
+							<time>0 1 1 0</time>
+							<value>1</value>
+							<inputTangentTime>-4.0000000000000007e-06</inputTangentTime>
+							<inputTangentValue>-0</inputTangentValue>
+							<outputTangentTime>4.0000000000000007e-06</outputTangentTime>
+							<outputTangentValue>0</outputTangentValue>
+						</keypoint>
+						<keypoint interpolation="1" flags="160">
+							<time>1523567 44100 1 0</time>
+							<value>1036.4047313230988</value>
+						</keypoint>
+					</curve>
+				</parameter>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704"/>
+		</audioTrack>
+		<scenenode name="Master" id="10018" factoryID="13" version="5">
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="264712448 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524368</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704"/>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 7680000 1 0" out="264712448 7680000 1 0" offset="-256256 7680000 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524368</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704"/>
+		<parameter name="Object" id="2" flags="8589938704"/>
+	</audio>
+
+	<footage name="Media Layer" id="10007">
+		<clip name="glassgreen" id="1911567858">
+			<pathURL>file://localhost/Users/kenny/Development/VPD/PECoach/code/Animations/Icons/glassgreen.png</pathURL>
+			<relativeURL>Icons/glassgreen.png</relativeURL>
+			<missingWidth>200</missingWidth>
+			<missingHeight>200</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8590000128" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12884901888" default="200" value="200"/>
+				<parameter name="Fixed Height" id="115" flags="12884901888" default="200" value="200"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<clip name="glassyellow" id="1911562129">
+			<pathURL>file://localhost/Users/kenny/Development/VPD/PECoach/code/Animations/Icons/glassyellow.png</pathURL>
+			<relativeURL>Icons/glassyellow.png</relativeURL>
+			<missingWidth>200</missingWidth>
+			<missingHeight>200</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8590000128" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12884901888" default="200" value="200"/>
+				<parameter name="Fixed Height" id="115" flags="12884901888" default="200" value="200"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<clip name="glassyellow" id="1911562112">
+			<pathURL>file://localhost/Users/kenny/Development/VPD/PECoach/code/Animations/Icons/glassyellow.png</pathURL>
+			<relativeURL>Icons/glassyellow.png</relativeURL>
+			<missingWidth>200</missingWidth>
+			<missingHeight>200</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8590000128" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12884901888" default="200" value="200"/>
+				<parameter name="Fixed Height" id="115" flags="12884901888" default="200" value="200"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<clip name="glassred" id="1911562095">
+			<pathURL>file://localhost/Users/kenny/Development/VPD/PECoach/code/Animations/Icons/glassred.png</pathURL>
+			<relativeURL>Icons/glassred.png</relativeURL>
+			<missingWidth>200</missingWidth>
+			<missingHeight>200</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8590000128" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12884901888" default="200" value="200"/>
+				<parameter name="Fixed Height" id="115" flags="12884901888" default="200" value="200"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<clip name="glassgreen" id="1911562078">
+			<pathURL>file://localhost/Users/kenny/Development/VPD/PECoach/code/Animations/Icons/glassgreen.png</pathURL>
+			<relativeURL>Icons/glassgreen.png</relativeURL>
+			<missingWidth>200</missingWidth>
+			<missingHeight>200</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8590000128" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12884901888" default="200" value="200"/>
+				<parameter name="Fixed Height" id="115" flags="12884901888" default="200" value="200"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<clip name="f_intro2" id="10015">
+			<pathURL>file://localhost/Users/kenny/Development/VPD/PECoach/code/Animations/Audio/f_intro2.mp3</pathURL>
+			<relativeURL>Audio/f_intro2.mp3</relativeURL>
+			<missingWidth>0</missingWidth>
+			<missingHeight>0</missingHeight>
+			<missingDuration>34.548004535147392</missingDuration>
+			<creationDuration>1035</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="38965645568 1128960000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938706">
+					<parameter name="Alpha Type" id="101" flags="8590000130" default="0" value="0"/>
+					<parameter name="Alpha Color" id="102" flags="8589938690">
+						<foldFlags>15</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="Invert Alpha" id="103" flags="8589934594" default="0" value="0"/>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901890" default="1" value="1"/>
+				<parameter name="Field Order" id="105" flags="8590000130" default="0" value="0"/>
+				<parameter name="3:2 Pulldown" id="106" flags="8590000130" default="0" value="0"/>
+				<parameter name="Frame Rate" id="107" flags="8589934594" default="0" value="0"/>
+				<parameter name="Fixed Width" id="114" flags="8589934594" default="0" value="0"/>
+				<parameter name="Fixed Height" id="115" flags="8589934594" default="0" value="0"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+				<parameter name="Crop" id="112" flags="8589938690">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Gamma" id="124" flags="8589934594" default="1" value="1"/>
+			</parameter>
+		</clip>
+		<clip name="glassyellow" id="10011">
+			<pathURL>file://localhost/Users/kenny/Development/VPD/PECoach/Breathing%20Animation/glassyellow.png</pathURL>
+			<relativeURL>../../Breathing%20Animation/glassyellow.png</relativeURL>
+			<missingWidth>100</missingWidth>
+			<missingHeight>100</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8606777344" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12901679104" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8606711808" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12901679104" default="100" value="100"/>
+				<parameter name="Fixed Height" id="115" flags="12901679104" default="100" value="100"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<clip name="glassred" id="10009">
+			<pathURL>file://localhost/Users/kenny/Development/VPD/PECoach/Breathing%20Animation/glassred.png</pathURL>
+			<relativeURL>../../Breathing%20Animation/glassred.png</relativeURL>
+			<missingWidth>100</missingWidth>
+			<missingHeight>100</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 7680000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8606777344" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12901679104" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8606711808" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12901679104" default="100" value="100"/>
+				<parameter name="Fixed Height" id="115" flags="12901679104" default="100" value="100"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="38965645568 1128960000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704"/>
+		<parameter name="Object" id="2" flags="8589938704"/>
+	</footage>
+</scene>
+
+</ozml>

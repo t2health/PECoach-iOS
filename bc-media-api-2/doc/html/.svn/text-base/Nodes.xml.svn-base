@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+  <TOC>
+    <Node>
+      <Name>Root</Name>
+      <Path>index.html</Path>
+      <Subnodes>
+       <Node>
+        <Name>Brightcove Media API</Name>
+        <Path>index.html</Path>
+       </Node>
+       <Node>
+        <Name>Class List</Name>
+        <Path>annotated.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>BCConfigManager</Name>
+          <Path>interface_b_c_config_manager.html</Path>
+         </Node>
+         <Node>
+          <Name>BCCuePoint</Name>
+          <Path>interface_b_c_cue_point.html</Path>
+         </Node>
+         <Node>
+          <Name>BCImage</Name>
+          <Path>interface_b_c_image.html</Path>
+         </Node>
+         <Node>
+          <Name>BCItemCollection</Name>
+          <Path>interface_b_c_item_collection.html</Path>
+         </Node>
+         <Node>
+          <Name>BCMediaAPI</Name>
+          <Path>interface_b_c_media_a_p_i.html</Path>
+         </Node>
+         <Node>
+          <Name>BCObject</Name>
+          <Path>interface_b_c_object.html</Path>
+         </Node>
+         <Node>
+          <Name>BCPlaylist</Name>
+          <Path>interface_b_c_playlist.html</Path>
+         </Node>
+         <Node>
+          <Name>BCRendition</Name>
+          <Path>interface_b_c_rendition.html</Path>
+         </Node>
+         <Node>
+          <Name>BCUtilMethods</Name>
+          <Path>interface_b_c_util_methods.html</Path>
+         </Node>
+         <Node>
+          <Name>BCVideo</Name>
+          <Path>interface_b_c_video.html</Path>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Class Members</Name>
+        <Path>functions.html</Path>
+       </Node>
+       <Node>
+        <Name>File List</Name>
+        <Path>files.html</Path>
+        <Subnodes>
+        </Subnodes>
+       </Node>
+      </Subnodes>
+    </Node>
+  </TOC>
+</DocSetNodes>

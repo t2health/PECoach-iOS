@@ -1,0 +1,73 @@
+#2.0.2
+ Fixes:
+  - findModifiedVideos methods, double date value was incorrectly 
+    formatted in api string param as lld.
+
+#2.0.1
+
+ New:
+  - Compatible with the latest iOS 4.2 SDK from Apple.
+  - (FOR FUTURE USE) BCMediaDeliveryTypeHTTP_IOS added to support 
+    http streaming transcode settings.
+ Changes:
+  - BCMediaDeliveryTypeHTTP is now the default media delivery type
+ 
+#2.0.0
+
+ Changes:
+  - Logging property has moved to the BCConfigManager class from
+    the BCMediaAPI class. The logging output is the same, the flag
+    has just moved.
+  - SBJSON header files are now public and available in the same
+    header search path as our media API headers.
+
+#1.2.2
+
+ Changes:
+  - Switch from double to long long. Some of our Media API methods
+    and properties for some of our model objects used double as their
+    type. These have now been replaced with a long long type. This 
+    better reflects the values returned by the Media APIs as we don't 
+    have floating point values for our ids.
+  - Region support has been moved to it's own class. The
+    BCConfigManager class now manages the region for all libraries
+    from Brightcove. In this library, libBrightcoveMediaAPI.a, the 
+    endpoint api.brightcove.com or api.brightcove.co.jp is applied.
+
+#1.2.1
+
+ New:
+  - Region support, you can now specify what end point you
+    want to make your API calls to, api.brightcove.com or
+    api.brightcove.co.jp.
+  - udsSupportOn property has been changed to mediaDeliveryType.
+    This property takes a BCMediaDeliveryType enum value, 
+    BCMediaDeliveryTypeDefault or BCMediaDeliveryTypeHTTP. The
+    default value is BCMediaDeliveryTypeDefault which will use
+    the default media delivery type for your account. If your 
+    app was using the udsSupportOn property to force http media 
+    urls use the BCMediaDeliveryTypeHTTP enum value.
+  - Logging, by setting the logging property to true
+    on the BCMediaAPI class you can see the contents of your
+    calls to api.brightcove.(com/co.jp) and the returned data. 
+    Turn this off in your release builds.
+  - Compatible with the latest iOS 4.0 SDK from Apple. 
+
+#1.2.0
+
+ New:
+  - Media API code separated from the iPhone specific sdk.
+  - This Library will work with iPhone, iPad and 
+    Desktop Cocoa applications. 
+
+#1.1.0 
+
+ Fixes:
+  - Memory leaks in the API wrapper and BCPlayer have been fixed.
+  - Fetching a playlist with a video that has no renditions in it
+    was causing an exception.
+
+#1.0.0
+
+ New:
+  - Initial sdk release.

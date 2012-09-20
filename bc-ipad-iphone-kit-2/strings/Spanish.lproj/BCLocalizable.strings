@@ -1,0 +1,46 @@
+//
+// Permission is hereby granted, free of charge, to any person
+// obtaining a copy of this software and associated documentation
+// files (the "Software"), to deal in the Software without
+// restriction, including without limitation the rights to use,
+// copy, modify, merge, publish, distribute, sublicense, and/or
+// sell copies of the Software, and to permit persons to whom the
+// Software is furnished to do so, subject to the following
+// conditions:
+// 
+// 1.  The permission granted herein does not extend to commercial use of
+// the Software by entities primarily engaged in providing online video
+// and related services; and
+// 
+// 2.  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+// EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+// IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+// CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+// TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+// SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+//
+
+"Email" = "Correo electrónico";
+"Check out this video on Brightcove:" = "Ver este vídeo en Brightcove:";
+"Twitter" = "Twitter";
+"Close" = "Cerrar";
+"Email to a Friend" = "Enviar a un amigo";
+"Do you want to exit this app to send the email?" = "¿Quiere abandonar este app para enviar el correo electrónico?";
+"Cancel" = "Cancelar";
+"OK" = "OK";
+"Your Username or Password was incorrect!" = "¡Combinación incorrecta de nombre de usuario y contraseña!";
+"Unable to Login at this time!" = "Unable to Login at this time!";
+"Try Again" = "Inténtelo de nuevo";
+"Sign In" = "Iniciar sesión";
+"Password*" = "Contraseña";
+"User Name*" = "Nombre de usuario";
+"Share" = "Compartir";
+"Add a Comment" = "Añadir un comentario";
+"We could not share this video at this time!" = "No se ha podido compartir el vídeo en este momento.";
+"Characters" = "caracteres";
+"Successful!" = "¡Listo!";
+"Done" = "Hecho";
+"Cancel" = "Cancelar";
+"Unable to send email because email is not configured on this device. Open the mail app and enter your account details before trying to send email." = "Unable to send email because email is not configured on this device. Open the mail app and enter your account details before trying to send email.";
+"Unable to paste more than 140 characters" = "Unable to paste more than 140 characters";

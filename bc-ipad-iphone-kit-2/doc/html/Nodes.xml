@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocSetNodes version="1.0">
+  <TOC>
+    <Node>
+      <Name>Root</Name>
+      <Path>index.html</Path>
+      <Subnodes>
+       <Node>
+        <Name>Brightcove iPad iPhone Kit</Name>
+        <Path>index.html</Path>
+       </Node>
+       <Node>
+        <Name>Class List</Name>
+        <Path>annotated.html</Path>
+        <Subnodes>
+         <Node>
+          <Name>BCMoviePlayerController</Name>
+          <Path>interface_b_c_movie_player_controller.html</Path>
+         </Node>
+         <Node>
+          <Name>BCSharingUtils</Name>
+          <Path>interface_b_c_sharing_utils.html</Path>
+         </Node>
+         <Node>
+          <Name>BCSharingViewController</Name>
+          <Path>interface_b_c_sharing_view_controller.html</Path>
+         </Node>
+         <Node>
+          <Name>&lt;BCSharingViewDelegate&gt;</Name>
+          <Path>protocol_b_c_sharing_view_delegate-p.html</Path>
+         </Node>
+        </Subnodes>
+       </Node>
+       <Node>
+        <Name>Class Members</Name>
+        <Path>functions.html</Path>
+       </Node>
+       <Node>
+        <Name>File List</Name>
+        <Path>files.html</Path>
+        <Subnodes>
+        </Subnodes>
+       </Node>
+      </Subnodes>
+    </Node>
+  </TOC>
+</DocSetNodes>

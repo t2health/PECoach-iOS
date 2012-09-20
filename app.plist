@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Analytics</key>
+	<dict>
+		<key>appKey</key>
+		<string>IZWJW5W5BEPX5MX9MN47</string>
+		<key>debugKey</key>
+		<string>NYAK1DHUXMF1FVXKCGIG</string>
+	</dict>
+	<key>Brightcove</key>
+	<dict>
+		<key>apikey</key>
+		<string>KqxnaC4wR_9Z7OoPadhidvvddOPPUIwPiHwIj_WZXqJWZohd9G1Mmw..</string>
+		<key>apikeyGood</key>
+		<string>KqxnaC4wR_9Z7OoPadhidvvddOPPUIwPiHwIj_WZXqJWZohd9G1Mmw..</string>
+		<key>apikeyNew</key>
+		<string>aEKaJd8fSOxJHDP_akYJVkjXLywOcC8jSESi13ZrmdY0VVI6r7FDEQ..</string>
+		<key>apikeyBad</key>
+		<string>Kqxnaxxx_9Z7OoPadhidvvddxxxIwPiHwIj_WZXqJWZohd9G1Mmw..</string>
+		<key>viewAll</key>
+		<integer>1099667098001</integer>
+		<key>reExperiencePTSD</key>
+		<integer>1099623535001</integer>
+		<key>howToBreathe</key>
+		<integer>1134607088001</integer>
+		<key>learnBreathing</key>
+		<integer>1134613111001</integer>
+		<key>explainPE</key>
+		<integer>1134523001001</integer>
+		<key>saveExplainPE</key>
+		<integer>1134523001001</integer>
+		<key>irritableAnger</key>
+		<integer>1099667100001</integer>
+		<key>alcoholDrugs</key>
+		<integer>1099660757001</integer>
+		<key>guiltShame</key>
+		<integer>1099671542001</integer>
+		<key>increasedArousal</key>
+		<integer>1099660775001</integer>
+		<key>trustIntimacy</key>
+		<integer>1099667119001</integer>
+		<key>fearAnxiety</key>
+		<integer>1099667133001</integer>
+		<key>conclusion</key>
+		<integer>1099671578001</integer>
+		<key>demo</key>
+		<integer>1099671578001</integer>
+	</dict>
+	<key>Comments</key>
+	<dict>
+		<key>exhaleBreath</key>
+		<string>Take a deep breath, sucking as much air as you can into  your lungs, pushing out your stomach.  Then when you begin to exhale, press and hold the button down.  Try to make this a slow long exhale by pushing your stomach out.  Release the button only when you start to inhale.</string>
+		<key>inhaleBreath</key>
+		<string>Let the air out of your lungs, pushing as much air as you can out of your lungs by tightening your stomach.  Then while inhaling, press and hold the button down.  Try to make this a slow deep breath by pushing your stomach out.  Release the button only when you start to exhale.</string>
+		<key>PostVASInfo</key>
+		<string>Use the slider below to rate your stress.  After this you can look at the results and see how breathing effects your stress.</string>
+		<key>PostVASTitle</key>
+		<string>How do you feel now?</string>
+		<key>PreVASInfo</key>
+		<string>Use the slider below to rate your stress.  You can do this again after the breathing exercise to keep track of how breathing affects your stress.</string>
+		<key>PreVASTitle</key>
+		<string>How do you feel?</string>
+	</dict>
+	<key>Feedback</key>
+	<dict>
+		<key>body</key>
+		<string></string>
+		<key>recipient</key>
+		<string>yourthoughts@tee2.org</string>
+		<key>subject</key>
+		<string>PE Coach Feedback</string>
+	</dict>
+	<key>URLs</key>
+	<dict>
+		<key>rateApp</key>
+		<string>http://itunes.apple.com/us/app/breathe2relax/id425720246?mt=8</string>
+		<key>reachablityCheckBC</key>
+		<string>api.brightcove.com</string>
+		<key>T2</key>
+		<string>http://t2health.org/</string>
+	</dict>
+</dict>
+</plist>
