@@ -73,7 +73,6 @@
 		08D9F41A1484034A000B459E /* libFlurryAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 08D9F4191484034A000B459E /* libFlurryAnalytics.a */; };
 		08E7289A1577BB490069D611 /* SUDSAnchorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 08E728981577BB490069D611 /* SUDSAnchorViewController.m */; };
 		08FB16881462005F0042C9EA /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB16871462005F0042C9EA /* MobileCoreServices.framework */; };
-		6269C1B3162DFE0B00CE6F83 /* bc-media-api-2 in Resources */ = {isa = PBXBuildFile; fileRef = 6269C1B2162DFE0B00CE6F83 /* bc-media-api-2 */; };
 		B90BD91B13DE08FE0007551E /* AssessSituationsActionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B90BD91A13DE08FE0007551E /* AssessSituationsActionViewController.m */; };
 		B90BD91F13DE26EE0007551E /* CompareSituationsActionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B90BD91E13DE26ED0007551E /* CompareSituationsActionViewController.m */; };
 		B90BD96F13DE2E360007551E /* GraphSituationsActionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B90BD96E13DE2E350007551E /* GraphSituationsActionViewController.m */; };
@@ -282,7 +281,45 @@
 		08E728971577BB490069D611 /* SUDSAnchorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SUDSAnchorViewController.h; sourceTree = "<group>"; };
 		08E728981577BB490069D611 /* SUDSAnchorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SUDSAnchorViewController.m; sourceTree = "<group>"; };
 		08FB16871462005F0042C9EA /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
-		6269C1B2162DFE0B00CE6F83 /* bc-media-api-2 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "bc-media-api-2"; path = "PECoach/bc-media-api-2"; sourceTree = "<group>"; };
+		628F8703162E13A800C86DA5 /* BCConfigManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCConfigManager.h; path = "bc-media-api-2/lib/usr/local/include/BCConfigManager.h"; sourceTree = SOURCE_ROOT; };
+		628F8704162E13A800C86DA5 /* BCCuePoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCCuePoint.h; path = "bc-media-api-2/lib/usr/local/include/BCCuePoint.h"; sourceTree = SOURCE_ROOT; };
+		628F8705162E13A800C86DA5 /* BCImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCImage.h; path = "bc-media-api-2/lib/usr/local/include/BCImage.h"; sourceTree = SOURCE_ROOT; };
+		628F8706162E13A800C86DA5 /* BCItemCollection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCItemCollection.h; path = "bc-media-api-2/lib/usr/local/include/BCItemCollection.h"; sourceTree = SOURCE_ROOT; };
+		628F8707162E13A800C86DA5 /* BCMediaAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCMediaAPI.h; path = "bc-media-api-2/lib/usr/local/include/BCMediaAPI.h"; sourceTree = SOURCE_ROOT; };
+		628F8708162E13A800C86DA5 /* BCObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCObject.h; path = "bc-media-api-2/lib/usr/local/include/BCObject.h"; sourceTree = SOURCE_ROOT; };
+		628F8709162E13A800C86DA5 /* BCPlaylist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCPlaylist.h; path = "bc-media-api-2/lib/usr/local/include/BCPlaylist.h"; sourceTree = SOURCE_ROOT; };
+		628F870A162E13A800C86DA5 /* BCRendition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCRendition.h; path = "bc-media-api-2/lib/usr/local/include/BCRendition.h"; sourceTree = SOURCE_ROOT; };
+		628F870B162E13A800C86DA5 /* BCVideo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCVideo.h; path = "bc-media-api-2/lib/usr/local/include/BCVideo.h"; sourceTree = SOURCE_ROOT; };
+		628F870C162E13A800C86DA5 /* NSObject+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSObject+SBJSON.h"; path = "bc-media-api-2/lib/usr/local/include/NSObject+SBJSON.h"; sourceTree = SOURCE_ROOT; };
+		628F870D162E13A800C86DA5 /* NSString+SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSString+SBJSON.h"; path = "bc-media-api-2/lib/usr/local/include/NSString+SBJSON.h"; sourceTree = SOURCE_ROOT; };
+		628F870E162E13A800C86DA5 /* SBJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJSON.h; path = "bc-media-api-2/lib/usr/local/include/SBJSON.h"; sourceTree = SOURCE_ROOT; };
+		628F870F162E13A800C86DA5 /* SBJsonBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonBase.h; path = "bc-media-api-2/lib/usr/local/include/SBJsonBase.h"; sourceTree = SOURCE_ROOT; };
+		628F8710162E13A800C86DA5 /* SBJsonParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonParser.h; path = "bc-media-api-2/lib/usr/local/include/SBJsonParser.h"; sourceTree = SOURCE_ROOT; };
+		628F8711162E13A800C86DA5 /* SBJsonWriter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBJsonWriter.h; path = "bc-media-api-2/lib/usr/local/include/SBJsonWriter.h"; sourceTree = SOURCE_ROOT; };
+		628F8712162E13D900C86DA5 /* BCMoviePlayerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCMoviePlayerController.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/BCMoviePlayerController.h"; sourceTree = SOURCE_ROOT; };
+		628F8713162E13D900C86DA5 /* BCSharingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BCSharingViewController.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/BCSharingViewController.h"; sourceTree = SOURCE_ROOT; };
+		628F8714162E13D900C86DA5 /* ExchangeCredentialsOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ExchangeCredentialsOperation.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/ExchangeCredentialsOperation.h"; sourceTree = SOURCE_ROOT; };
+		628F8715162E13D900C86DA5 /* ExchangeCredentialsOperationDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ExchangeCredentialsOperationDelegate.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/ExchangeCredentialsOperationDelegate.h"; sourceTree = SOURCE_ROOT; };
+		628F8716162E13D900C86DA5 /* MGTwitterEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterEngine.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterEngine.h"; sourceTree = SOURCE_ROOT; };
+		628F8717162E13D900C86DA5 /* MGTwitterEngineDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterEngineDelegate.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterEngineDelegate.h"; sourceTree = SOURCE_ROOT; };
+		628F8718162E13D900C86DA5 /* MGTwitterEngineGlobalHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterEngineGlobalHeader.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterEngineGlobalHeader.h"; sourceTree = SOURCE_ROOT; };
+		628F8719162E13D900C86DA5 /* MGTwitterHTTPURLConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterHTTPURLConnection.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterHTTPURLConnection.h"; sourceTree = SOURCE_ROOT; };
+		628F871A162E13D900C86DA5 /* MGTwitterLibXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterLibXMLParser.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterLibXMLParser.h"; sourceTree = SOURCE_ROOT; };
+		628F871B162E13D900C86DA5 /* MGTwitterMessagesLibXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterMessagesLibXMLParser.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterMessagesLibXMLParser.h"; sourceTree = SOURCE_ROOT; };
+		628F871C162E13D900C86DA5 /* MGTwitterMessagesParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterMessagesParser.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterMessagesParser.h"; sourceTree = SOURCE_ROOT; };
+		628F871D162E13D900C86DA5 /* MGTwitterMiscLibXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterMiscLibXMLParser.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterMiscLibXMLParser.h"; sourceTree = SOURCE_ROOT; };
+		628F871E162E13D900C86DA5 /* MGTwitterMiscParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterMiscParser.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterMiscParser.h"; sourceTree = SOURCE_ROOT; };
+		628F871F162E13D900C86DA5 /* MGTwitterParserDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterParserDelegate.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterParserDelegate.h"; sourceTree = SOURCE_ROOT; };
+		628F8720162E13D900C86DA5 /* MGTwitterRequestTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterRequestTypes.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterRequestTypes.h"; sourceTree = SOURCE_ROOT; };
+		628F8721162E13D900C86DA5 /* MGTwitterStatusesLibXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterStatusesLibXMLParser.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterStatusesLibXMLParser.h"; sourceTree = SOURCE_ROOT; };
+		628F8722162E13D900C86DA5 /* MGTwitterStatusesParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterStatusesParser.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterStatusesParser.h"; sourceTree = SOURCE_ROOT; };
+		628F8723162E13D900C86DA5 /* MGTwitterUsersLibXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterUsersLibXMLParser.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterUsersLibXMLParser.h"; sourceTree = SOURCE_ROOT; };
+		628F8724162E13D900C86DA5 /* MGTwitterUsersParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterUsersParser.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterUsersParser.h"; sourceTree = SOURCE_ROOT; };
+		628F8725162E13D900C86DA5 /* MGTwitterXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MGTwitterXMLParser.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/MGTwitterXMLParser.h"; sourceTree = SOURCE_ROOT; };
+		628F8726162E13D900C86DA5 /* NSData+MGTwitterBase64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSData+MGTwitterBase64.h"; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/NSData+MGTwitterBase64.h"; sourceTree = SOURCE_ROOT; };
+		628F8727162E13D900C86DA5 /* NSString+UUID.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSString+UUID.h"; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/NSString+UUID.h"; sourceTree = SOURCE_ROOT; };
+		628F8728162E13D900C86DA5 /* XAuthTwitterEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XAuthTwitterEngine.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/XAuthTwitterEngine.h"; sourceTree = SOURCE_ROOT; };
+		628F8729162E13D900C86DA5 /* XAuthTwitterEngineDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XAuthTwitterEngineDelegate.h; path = "bc-ipad-iphone-kit-2/lib/usr/local/include/XAuthTwitterEngineDelegate.h"; sourceTree = SOURCE_ROOT; };
 		B900CF7113E12B4200B5CD91 /* SessionsMenuDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SessionsMenuDelegate.h; sourceTree = "<group>"; };
 		B90BD91913DE08FE0007551E /* AssessSituationsActionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AssessSituationsActionViewController.h; sourceTree = "<group>"; };
 		B90BD91A13DE08FE0007551E /* AssessSituationsActionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AssessSituationsActionViewController.m; sourceTree = "<group>"; };
@@ -585,6 +622,68 @@
 			name = "Other Sources";
 			sourceTree = "<group>";
 		};
+		628F8700162E119400C86DA5 /* BrightCove */ = {
+			isa = PBXGroup;
+			children = (
+				628F8702162E11BE00C86DA5 /* BCiPadiPhoneKit */,
+				628F8701162E11AC00C86DA5 /* BCMediaAPI */,
+			);
+			name = BrightCove;
+			sourceTree = "<group>";
+		};
+		628F8701162E11AC00C86DA5 /* BCMediaAPI */ = {
+			isa = PBXGroup;
+			children = (
+				628F8703162E13A800C86DA5 /* BCConfigManager.h */,
+				628F8704162E13A800C86DA5 /* BCCuePoint.h */,
+				628F8705162E13A800C86DA5 /* BCImage.h */,
+				628F8706162E13A800C86DA5 /* BCItemCollection.h */,
+				628F8707162E13A800C86DA5 /* BCMediaAPI.h */,
+				628F8708162E13A800C86DA5 /* BCObject.h */,
+				628F8709162E13A800C86DA5 /* BCPlaylist.h */,
+				628F870A162E13A800C86DA5 /* BCRendition.h */,
+				628F870B162E13A800C86DA5 /* BCVideo.h */,
+				628F870C162E13A800C86DA5 /* NSObject+SBJSON.h */,
+				628F870D162E13A800C86DA5 /* NSString+SBJSON.h */,
+				628F870E162E13A800C86DA5 /* SBJSON.h */,
+				628F870F162E13A800C86DA5 /* SBJsonBase.h */,
+				628F8710162E13A800C86DA5 /* SBJsonParser.h */,
+				628F8711162E13A800C86DA5 /* SBJsonWriter.h */,
+			);
+			name = BCMediaAPI;
+			sourceTree = "<group>";
+		};
+		628F8702162E11BE00C86DA5 /* BCiPadiPhoneKit */ = {
+			isa = PBXGroup;
+			children = (
+				628F8712162E13D900C86DA5 /* BCMoviePlayerController.h */,
+				628F8713162E13D900C86DA5 /* BCSharingViewController.h */,
+				628F8714162E13D900C86DA5 /* ExchangeCredentialsOperation.h */,
+				628F8715162E13D900C86DA5 /* ExchangeCredentialsOperationDelegate.h */,
+				628F8716162E13D900C86DA5 /* MGTwitterEngine.h */,
+				628F8717162E13D900C86DA5 /* MGTwitterEngineDelegate.h */,
+				628F8718162E13D900C86DA5 /* MGTwitterEngineGlobalHeader.h */,
+				628F8719162E13D900C86DA5 /* MGTwitterHTTPURLConnection.h */,
+				628F871A162E13D900C86DA5 /* MGTwitterLibXMLParser.h */,
+				628F871B162E13D900C86DA5 /* MGTwitterMessagesLibXMLParser.h */,
+				628F871C162E13D900C86DA5 /* MGTwitterMessagesParser.h */,
+				628F871D162E13D900C86DA5 /* MGTwitterMiscLibXMLParser.h */,
+				628F871E162E13D900C86DA5 /* MGTwitterMiscParser.h */,
+				628F871F162E13D900C86DA5 /* MGTwitterParserDelegate.h */,
+				628F8720162E13D900C86DA5 /* MGTwitterRequestTypes.h */,
+				628F8721162E13D900C86DA5 /* MGTwitterStatusesLibXMLParser.h */,
+				628F8722162E13D900C86DA5 /* MGTwitterStatusesParser.h */,
+				628F8723162E13D900C86DA5 /* MGTwitterUsersLibXMLParser.h */,
+				628F8724162E13D900C86DA5 /* MGTwitterUsersParser.h */,
+				628F8725162E13D900C86DA5 /* MGTwitterXMLParser.h */,
+				628F8726162E13D900C86DA5 /* NSData+MGTwitterBase64.h */,
+				628F8727162E13D900C86DA5 /* NSString+UUID.h */,
+				628F8728162E13D900C86DA5 /* XAuthTwitterEngine.h */,
+				628F8729162E13D900C86DA5 /* XAuthTwitterEngineDelegate.h */,
+			);
+			name = BCiPadiPhoneKit;
+			sourceTree = "<group>";
+		};
 		B900CF7013E12AC800B5CD91 /* Protocols */ = {
 			isa = PBXGroup;
 			children = (
@@ -681,7 +780,6 @@
 		B970C0DC13AFECBB00D0C5C0 = {
 			isa = PBXGroup;
 			children = (
-				6269C1B2162DFE0B00CE6F83 /* bc-media-api-2 */,
 				087FFFD014AA7CC900C32FC7 /* Audio */,
 				0883072814487C6B00E215AF /* iPad */,
 				B98F309213C500F0007B2808 /* Entitlements.plist */,
@@ -822,6 +920,7 @@
 		B970C1A213B078B100D0C5C0 /* Third Party */ = {
 			isa = PBXGroup;
 			children = (
+				628F8700162E119400C86DA5 /* BrightCove */,
 				B970C1A313B078C000D0C5C0 /* TBXML */,
 			);
 			name = "Third Party";
@@ -1209,7 +1308,6 @@
 				086A2B8214D1ACC100E84200 /* WebViewController.xib in Resources */,
 				088D257A157584A800B466B5 /* AddSession.png in Resources */,
 				0870AAEE15793D9B005A32B7 /* SUDSAnchors.xml in Resources */,
-				6269C1B3162DFE0B00CE6F83 /* bc-media-api-2 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
