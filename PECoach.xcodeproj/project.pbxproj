@@ -73,6 +73,7 @@
 		08D9F41A1484034A000B459E /* libFlurryAnalytics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 08D9F4191484034A000B459E /* libFlurryAnalytics.a */; };
 		08E7289A1577BB490069D611 /* SUDSAnchorViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 08E728981577BB490069D611 /* SUDSAnchorViewController.m */; };
 		08FB16881462005F0042C9EA /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB16871462005F0042C9EA /* MobileCoreServices.framework */; };
+		6269C1B3162DFE0B00CE6F83 /* bc-media-api-2 in Resources */ = {isa = PBXBuildFile; fileRef = 6269C1B2162DFE0B00CE6F83 /* bc-media-api-2 */; };
 		B90BD91B13DE08FE0007551E /* AssessSituationsActionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B90BD91A13DE08FE0007551E /* AssessSituationsActionViewController.m */; };
 		B90BD91F13DE26EE0007551E /* CompareSituationsActionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B90BD91E13DE26ED0007551E /* CompareSituationsActionViewController.m */; };
 		B90BD96F13DE2E360007551E /* GraphSituationsActionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B90BD96E13DE2E350007551E /* GraphSituationsActionViewController.m */; };
@@ -281,6 +282,7 @@
 		08E728971577BB490069D611 /* SUDSAnchorViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SUDSAnchorViewController.h; sourceTree = "<group>"; };
 		08E728981577BB490069D611 /* SUDSAnchorViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SUDSAnchorViewController.m; sourceTree = "<group>"; };
 		08FB16871462005F0042C9EA /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		6269C1B2162DFE0B00CE6F83 /* bc-media-api-2 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "bc-media-api-2"; path = "PECoach/bc-media-api-2"; sourceTree = "<group>"; };
 		B900CF7113E12B4200B5CD91 /* SessionsMenuDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SessionsMenuDelegate.h; sourceTree = "<group>"; };
 		B90BD91913DE08FE0007551E /* AssessSituationsActionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AssessSituationsActionViewController.h; sourceTree = "<group>"; };
 		B90BD91A13DE08FE0007551E /* AssessSituationsActionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AssessSituationsActionViewController.m; sourceTree = "<group>"; };
@@ -679,6 +681,7 @@
 		B970C0DC13AFECBB00D0C5C0 = {
 			isa = PBXGroup;
 			children = (
+				6269C1B2162DFE0B00CE6F83 /* bc-media-api-2 */,
 				087FFFD014AA7CC900C32FC7 /* Audio */,
 				0883072814487C6B00E215AF /* iPad */,
 				B98F309213C500F0007B2808 /* Entitlements.plist */,
@@ -1206,6 +1209,7 @@
 				086A2B8214D1ACC100E84200 /* WebViewController.xib in Resources */,
 				088D257A157584A800B466B5 /* AddSession.png in Resources */,
 				0870AAEE15793D9B005A32B7 /* SUDSAnchors.xml in Resources */,
+				6269C1B3162DFE0B00CE6F83 /* bc-media-api-2 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
